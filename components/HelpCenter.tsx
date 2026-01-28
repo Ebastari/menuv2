@@ -1,6 +1,5 @@
 
 import React, { useState, useRef, useEffect, useMemo } from 'react';
-import { GoogleGenAI } from "@google/genai";
 import { MONTANA_FEATURES } from './LayananPengaduan';
 import { ROSTER_TEAM, ROSTER_START_DATE } from '../data/rosterData';
 
